@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.4" apprev="20938" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" levelbiashidpi="1.000" levelingroll="0" width="2976" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="2976" height="2976" preload="0" predecode="0"/>
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="157.178" fovmode="2">
+      <start pan="-129.16" fov="117.3" tilt="-2.59" projection="4"/>
+      <flyin pan="-129.16" fov="117.3" tilt="-2.59" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fov="117.3" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" comment="" title="INGRESO" author="" info="" heading="157.178" description="" source="" tags="MAJONI" latitude="-2.89671600" customnodeid="" nodeid="node1" datetime="" longitude="-79.00485770"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" height="20" enabled="1" textcolor="0x000000" borderalpha="1" backgroundalpha="1" width="180" borderradius="1" background="1" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="148.418" skinid="ht_node" title="AREA 1" tilt="0" description="" id="Point02" url="{node2}" distance="13.3726" target="78.8/-2.1/100.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" delay="none" zoomoutpause="1" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" rubberband="0" contextvr="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" lockedmouse="0" invertcontrol="1" invertwheel="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" levelbiashidpi="1.000" levelingroll="0" width="2976" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="2976" height="2976" preload="0" predecode="0"/>
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="95.0665" fovmode="2">
+      <start pan="-143.27" fov="100" tilt="-6.39" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" comment="" title="AREA 1" author="" info="" heading="95.0665" description="" source="" tags="MAJONI" latitude="-2.89659714" customnodeid="" nodeid="node2" datetime="" longitude="-79.00483936"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" height="20" enabled="1" textcolor="0x000000" borderalpha="1" backgroundalpha="1" width="180" borderradius="1" background="1" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="266.306" skinid="ht_node" title="INGRESO" tilt="0" description="" id="Point01" url="{node1}" distance="13.3726" target="-30.1/-2.1/117.3"/>
+      <hotspot pan="171.48" skinid="ht_node" title="AREA 2" tilt="15.65" description="" id="Point02" url="{node3}" distance="13.3389" target="-64.7/-9.8/127.0"/>
+      <hotspot pan="80.2899" skinid="ht_node" title="AREA 3" tilt="0" description="" id="Point03" url="{node4}" distance="14.016" target="-96.2/1.7/100.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" delay="none" zoomoutpause="1" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" rubberband="0" contextvr="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" lockedmouse="0" invertcontrol="1" invertwheel="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" levelbiashidpi="1.000" levelingroll="0.59633400000000003" width="2976" levelingpitch="-1.63279" levelbias="0.400" overlap="1">
+      <level width="2976" height="2976" preload="0" predecode="0"/>
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="170.407" fovmode="2">
+      <start pan="-57.98" fov="125.92" tilt="-2.96" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" comment="" title="AREA 2" author="" info="" heading="170.407" description="" source="" tags="MAJONI" latitude="-2.89656366" customnodeid="" nodeid="node3" datetime="" longitude="-79.00495470"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" height="20" enabled="1" textcolor="0x000000" borderalpha="1" backgroundalpha="1" width="180" borderradius="1" background="1" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="64.2008" skinid="ht_node" title="AREA 1" tilt="0" description="" id="Point01" url="{node2}" distance="13.3389" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" delay="none" zoomoutpause="1" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" rubberband="0" contextvr="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" lockedmouse="0" invertcontrol="1" invertwheel="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" levelbiashidpi="1.000" levelingroll="0" width="2976" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="2976" height="2976" preload="0" predecode="0"/>
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="295.429" fovmode="2">
+      <start pan="36.09" fov="100" tilt="3.31" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" comment="" title="AREA 3" author="" info="" heading="295.429" description="" source="" tags="MAJONI" latitude="-2.89647526" customnodeid="" nodeid="node4" datetime="" longitude="-79.00480717"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" height="20" enabled="1" textcolor="0x000000" borderalpha="1" backgroundalpha="1" width="180" borderradius="1" background="1" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="460.652" skinid="ht_node" title="AREA 1" tilt="0" description="" id="Point01" url="{node2}" distance="14.016" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" delay="none" zoomoutpause="1" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboard="0" speedwheel="1" rubberband="0" contextvr="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" lockedmouse="0" invertcontrol="1" invertwheel="0" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" title="" author="" description="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map mapstyle="streets" index="0" title="" mapprovider="custom" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapmaxzoom="19" type="web" id="Map01"/>
+</tour>
